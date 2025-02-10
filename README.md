@@ -2,7 +2,7 @@
 
 ## 项目历史来源
 
-本项目从https://github.com/lisir01/xiaohaohao_mod中分支而来，由于作者个人时间原因，无法完成整个mod，因此单独从中抽出一部分内容单独做成预览版mod。
+本项目从（https://github.com/lisir01/xiaohaohao_mod）中分支而来，由于作者个人时间原因，无法完成整个mod，因此单独从中抽出一部分内容单独做成预览版mod。
 
 <!--本mod纯属虚构，与一切真实人物、事件、团体、组织均无关联-->
 
