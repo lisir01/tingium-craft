@@ -1,0 +1,8 @@
+{
+	"parent": "minecraft:block/cube_bottom_top",
+	"textures": {
+		"top": "tingium-craft:block/tingjie_grass_block_top",
+		"bottom":"tingium-craft:block/tingjie_dirt",
+		"side":"tingium-craft:block/tingjie_grass_block_side"
+	}
+}

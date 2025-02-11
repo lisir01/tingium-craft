@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "tingium-craft:tingjieingot"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "tingium-craft:tingjienugget"
+  }
+}

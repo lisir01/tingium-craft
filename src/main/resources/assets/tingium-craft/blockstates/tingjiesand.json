@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "tingium-craft:block/tingjiesand"
+      },
+      {
+        "model": "tingium-craft:block/tingjiesand",
+        "y": 90
+      },
+      {
+        "model": "tingium-craft:block/tingjiesand",
+        "y": 180
+      },
+      {
+        "model": "tingium-craft:block/tingjiesand",
+        "y": 270
+      }
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "itemGroup.xiaohaohao_group": "tingium-craft group",
+  "block.tingium-craft.tingjiestone": "tingJie stone",
+  "block.tingium-craft.tingjiecobblestone": "tingJie cobblestone",
+  "block.tingium-craft.tingjielog": "tingJie log",
+  "block.tingium-craft.tingjieleaves": "tingjie leaves",
+  "block.tingium-craft.tingjiesand": "tingjie sand",
+  "item.tingium-craft.raw_tingjiemine": "raw Tingium",
+  "item.tingium-craft.tingjieingot": "Tingium",
+  "block.tingium-craft.tingjieore": "white Tingium ore",
+  "block.tingium-craft.black_tingjieore": "balck Tingium ore",
+  "block.tingium-craft.tingjieblock": "Tingium block",
+  "item.tingium-craft.tingjienugget": "Tingium nugget",
+  "item.tingium-craft.oxidized_raw_tingjiemine": "oxidized raw Tingium",
+  "item.tingium-craft.oxidized_tingjieingot": "oxidized Tingium",
+  "block.tingium-craft.oxidized_tingjieblock": "oxidized Tingium block",
+  "item.tingium-craft.oxidized_tingjienugget": "oxidized Tingium nugget",
+
+
+
+
+
+
+
+
+
+
+
+
+  "item.tingium-craft.music_pzsdbd": "66666",
+  "jukebox_song.tingium-craft.pzsdbd": "演都不演了是吧",
+
+  "item.tingium-craft.camera": "camera",
+
+  "painting.tingium-craft.james_call.title": "James is on the phone.",
+  "painting.tingium-craft.james_call.author": "xiaohaohao",
+  "painting.tingium-craft.james_relief.title": "james was relieved.",
+  "painting.tingium-craft.james_relief.author": "xiaohaohao",
+  "painting.tingium-craft.confused.title": "confused.",
+  "painting.tingium-craft.confused.author": "xiaohaohao",
+  "painting.tingium-craft.james_proud.title": "Smug James.",
+  "painting.tingium-craft.james_proud.author": "xiaohaohao",
+  "painting.tingium-craft.james_doubt.title": "James, who doubted.",
+  "painting.tingium-craft.james_doubt.author": "xiaohaohao",
+  "painting.tingium-craft.tingium.title": "Tingium introductory abridged version",
+  "painting.xiaohaohao-mod.tingium.author": "suger_li",
+  "painting.tingium-craft.tingium1.title": "Tingium introduces the detailed version",
+  "painting.xiaohaohao-mod.tingium1.author": "suger_li"
+}

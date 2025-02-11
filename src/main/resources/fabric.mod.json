@@ -5,11 +5,11 @@
 	"name": "Tingium-craft",
 	"description": "This is an example description! Tell everyone what your mod is about!",
 	"authors": [
-		"Me!"
+		"xiaohaohao","suger_li","tingjie","604"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/lisir01/tingium-craft"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/tingium-craft/icon.png",

@@ -3,7 +3,7 @@
 	"package": "name.tingiumcraft.mixin",
 	"compatibilityLevel": "JAVA_21",
 	"mixins": [
-		"ExampleMixin"
+		"TingiumcraftMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
