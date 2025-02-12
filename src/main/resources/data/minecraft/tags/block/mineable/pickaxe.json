@@ -1,10 +1,10 @@
 {
   "values": [
-    "tingium-craft:tingjiestone",
-    "tingium-craft:tingjiecobblestone",
-    "tingium-craft:tingjieblock",
-    "tingium-craft:oxidized_tingjieblock",
-    "tingium-craft:black_tingjieore",
-    "tingium-craft:tingjieore"
+    "tingium-craft:tingjie_stone",
+    "tingium-craft:tingjie_cobblestone",
+    "tingium-craft:tingjie_block",
+    "tingium-craft:oxidized_tingjie_block",
+    "tingium-craft:black_tingjie_ore",
+    "tingium-craft:tingjie_ore"
   ]
 }

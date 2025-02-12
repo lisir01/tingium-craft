@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/leaves",
+  "textures": {
+    "all": "tingium-craft:block/tingjie_leaves"
+  }
+}

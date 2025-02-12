@@ -19,6 +19,6 @@ public class RenderLayersMixin {
 
     @Inject(method = "<clinit>",at = @At("RETURN"))
     private static void onBlockInit(CallbackInfo ci){
-        BLOCKS.put(ModBlocks.TINGJIESAPLING, RenderLayer.getCutout());
+        BLOCKS.put(ModBlocks.TINGJIE_SAPLING, RenderLayer.getCutout());
     }
 }

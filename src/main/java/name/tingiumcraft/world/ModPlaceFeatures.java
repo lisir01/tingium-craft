@@ -24,7 +24,7 @@ public class ModPlaceFeatures {
         register(fratureRegisterable,TINGJIE_TREE_PLACED_KEY,registryEntryLookup.getOrThrow(ModConfiguredFeatures.TINGJIE_TREE_KEY),
                 VegetationPlacedFeatures.treeModifiersWithWouldSurvive(
                         PlacedFeatures.createCountExtraModifier(2,0.1f,2),
-                        ModBlocks.TINGJIESAPLING));
+                        ModBlocks.TINGJIE_SAPLING));
     }
 
     public static RegistryKey<PlacedFeature> of(String id){

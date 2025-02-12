@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "tingium-craft:block/tingjie_log_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "tingium-craft:block/tingjie_log"
+    },
+    "axis=z": {
+      "model": "tingium-craft:block/tingjie_log_horizontal",
+      "x": 90
+    }
+  }
+}

@@ -10,27 +10,27 @@ import net.minecraft.util.Rarity;
 
 public class ModItems {
 
-    public static final Item RAW_TINGJIEMINE = registerItems("raw_tingjiemine", new Item(
+    public static final Item RAW_TINGJIE_MINE = registerItems("raw_tingjie_mine", new Item(
             new Item.Settings()));
 //    婷姐粗矿
 
-    public static final Item TINGJIEINGOT =registerItems("tingjieingot",new Item(
+    public static final Item TINGJIE_INGOT =registerItems("tingjie_ingot",new Item(
             new Item.Settings()));
 //    婷姐锭
 
-    public static final Item TINGJIENUGGET=registerItems("tingjienugget",new Item(
+    public static final Item TINGJIE_NUGGET=registerItems("tingjie_nugget",new Item(
             new Item.Settings()));
 //    婷姐粒
 
-    public static final Item OXIDIZED_RAW_TINHJIEMINE=registerItems("oxidized_raw_tingjiemine",new Item(
+    public static final Item OXIDIZED_RAW_TINHJIE_MINE=registerItems("oxidized_raw_tingjie_mine",new Item(
             new Item.Settings()));
 //    氧化婷姐粗矿
 
-    public static final Item OXIDIZED_TINGJIEINGOT=registerItems("oxidized_tingjieingot",new Item(
+    public static final Item OXIDIZED_TINGJIE_INGOT=registerItems("oxidized_tingjie_ingot",new Item(
             new Item.Settings()));
 //    氧化婷姐锭
 
-    public static final Item OXIDIZED_TINGJIENUGGET=registerItems("oxidized_tingjienugget",new Item(
+    public static final Item OXIDIZED_TINGJIE_NUGGET=registerItems("oxidized_tingjie_nugget",new Item(
             new Item.Settings()));
 //    氧化婷姐粒
 

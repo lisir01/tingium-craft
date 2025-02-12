@@ -22,9 +22,9 @@ public class ModConfiguredFeatures {
 
     public static void bootstrap(Registerable<ConfiguredFeature<?,?>> featureRegisterable){
         register(featureRegisterable,TINGJIE_TREE_KEY,Feature.TREE,new TreeFeatureConfig.Builder(
-                BlockStateProvider.of(ModBlocks.TINGJIELOG),
+                BlockStateProvider.of(ModBlocks.TINGJIE_LOG),
                 new StraightTrunkPlacer(4,1,1),
-                BlockStateProvider.of(ModBlocks.TINGJIELEAVES),
+                BlockStateProvider.of(ModBlocks.TINGJIE_LEAVES),
                 new BlobFoliagePlacer(ConstantIntProvider.create(3),ConstantIntProvider.create(0),3),
                 new TwoLayersFeatureSize(1,0,2))
                 .build());

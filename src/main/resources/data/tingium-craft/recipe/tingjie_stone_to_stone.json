@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:blasting",
+  "group": "tingjie_stone_to_stone",
+  "category": "blocks",
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "tingium-craft:tingjie_stone"
+  },
+  "result": {
+    "id": "minecraft:stone"
+  }
+}

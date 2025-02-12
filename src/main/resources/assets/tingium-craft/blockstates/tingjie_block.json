@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "tingium-craft:block/tingjie_block"
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "tingium-craft:block/tingjie_sapling"
+  }
+}

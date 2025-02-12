@@ -32,8 +32,8 @@ public class Tingiumcraft implements ModInitializer {
 		ModSoundEvents.registerModSoundEvents();
 
 
-		FlammableBlockRegistry.getDefaultInstance().add(ModBlocks.TINGJIELOG,5,5);
-		FlammableBlockRegistry.getDefaultInstance().add(ModBlocks.TINGJIELEAVES,30,60);
+		FlammableBlockRegistry.getDefaultInstance().add(ModBlocks.TINGJIE_LOG,5,5);
+		FlammableBlockRegistry.getDefaultInstance().add(ModBlocks.TINGJIE_LEAVES,30,60);
 
 		LOGGER.info("这个，这个，还有这个，统统启动！");
 	}
