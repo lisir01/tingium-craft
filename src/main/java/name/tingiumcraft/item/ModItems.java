@@ -2,7 +2,7 @@ package name.tingiumcraft.item;
 
 import name.tingiumcraft.Tingiumcraft;
 import name.tingiumcraft.sound.ModJukeboxSongs;
-import net.minecraft.item.Item;
+import net.minecraft.item.*;
 import net.minecraft.registry.Registries;
 import net.minecraft.registry.Registry;
 import net.minecraft.util.Identifier;
@@ -48,8 +48,35 @@ public class ModItems {
                     .jukeboxPlayable(ModJukeboxSongs.PZSDBD)));
 //    音乐唱片
 
+    public static final Item TINGJIE_SWORD=registerItems("tingjie_sword",new SwordItem(
+            ModToolMaterials.TINGJIE_TOOL,
+            new Item.Settings().attributeModifiers(
+                    SwordItem.createAttributeModifiers(ModToolMaterials.TINGJIE_TOOL,5,-2.0f))));
+//    婷姐剑
 
+    public static final Item TINGJIE_SHOVEL=registerItems("tingjie_shovel",new ShovelItem(
+            ModToolMaterials.TINGJIE_TOOL,
+            new Item.Settings().attributeModifiers(
+                    ShovelItem.createAttributeModifiers(ModToolMaterials.TINGJIE_TOOL,2.5f,-2.5f))));
+//    婷姐铲
 
+    public static final Item TINGJIE_PICKAXE=registerItems("tingjie_pickaxe",new PickaxeItem(
+            ModToolMaterials.TINGJIE_TOOL,
+            new Item.Settings().attributeModifiers(
+                    PickaxeItem.createAttributeModifiers(ModToolMaterials.TINGJIE_TOOL,1.5f,-2.3f))));
+//    婷姐镐
+
+    public static final Item TINGJIE_AXE=registerItems("tingjie_axe",new AxeItem(
+            ModToolMaterials.TINGJIE_TOOL,
+            new Item.Settings().attributeModifiers(
+                    AxeItem.createAttributeModifiers(ModToolMaterials.TINGJIE_TOOL,6.5f,-2.5f))));
+//    婷姐斧
+
+    public static final Item TINGJIE_HOE=registerItems("tingjie_hoe",new HoeItem(
+            ModToolMaterials.TINGJIE_TOOL,
+            new Item.Settings().attributeModifiers(
+                    HoeItem.createAttributeModifiers(ModToolMaterials.TINGJIE_TOOL,-1.0f,-1.0f))));
+//    婷姐锄
 
     private static Item registerItems(String id, Item item){
         return Registry.register(Registries.ITEM, Identifier.of(Tingiumcraft.MOD_ID,id), item);

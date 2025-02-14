@@ -35,6 +35,11 @@ public class ModItemGroups {
                 entries.add(ModItems.OXIDIZED_TINGJIE_NUGGET);//氧化的婷姐粒
                 entries.add(ModBlocks.OXIDZED_TINGJIE_BLOCK);//氧化的婷姐矿
 
+                entries.add(ModItems.TINGJIE_AXE);//婷姐斧
+                entries.add(ModItems.TINGJIE_HOE);//婷姐锄
+                entries.add(ModItems.TINGJIE_SHOVEL);//婷姐铲
+                entries.add(ModItems.TINGJIE_SWORD);//婷姐剑
+                entries.add(ModItems.TINGJIE_PICKAXE);//婷姐镐
 
                 entries.add(ModItems.CAMERA);//照相机
                 entries.add(ModItems.MUSIC_PZSDBD);//音乐唱片
