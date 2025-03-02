@@ -28,7 +28,7 @@
 
 
   "item.tingium-craft.music_pzsdbd": "66666",
-  "jukebox_song.tingium-craft.pzsdbd": "演都不演了是吧",
+  "jukebox_song.tingium-craft.pzsdbd": "NB !",
 
   "item.tingium-craft.camera": "camera",
 
@@ -45,5 +45,15 @@
   "painting.tingium-craft.tingium.title": "Tingium introductory abridged version",
   "painting.xiaohaohao-mod.tingium.author": "suger_li",
   "painting.tingium-craft.tingium1.title": "Tingium introduces the detailed version",
-  "painting.xiaohaohao-mod.tingium1.author": "suger_li"
+  "painting.xiaohaohao-mod.tingium1.author": "suger_li",
+  "painting.tingium-craft.chen-junjie.title": "Chen Junjie",
+  "painting.tingium-craft.chen-junjie.author": "xiaohaohao",
+  "painting.tingium-craft.chen-junjie-like.title": "Chen Junjie's like",
+  "painting.tingium-craft.chen-junjie-like.author": "xiaohaohao",
+  "painting.tingium-craft.crooked-mouth-huajun.title": "crooked mouth Huajun",
+  "painting.tingium-craft.crooked-mouth-huajun.author": "xiaohaohao",
+  "painting.tingium-craft.james-raising-the-middle-finger.title": "James raising the middle finger",
+  "painting.tingium-craft.james-raising-the-middle-finger.author": "xiaohaohao",
+  "painting.tingium-craft.james-disdainful-little-eyes.title": "James disdainful little eyes",
+  "painting.tingium-craft.james-disdainful-little-eyes.author": "xiaohaohao"
 }
