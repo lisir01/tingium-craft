@@ -5,6 +5,9 @@
   "block.tingium-craft.tingjie_log": "tingJie log",
   "block.tingium-craft.tingjie_leaves": "tingjie leaves",
   "block.tingium-craft.tingjie_sand": "tingjie sand",
+  "block.tingium-craft.tingjie_sapling": "Tingium saping",
+  "block.tingium-craft.tingjie_grass_block": "Tingium grass block",
+  "block.tingjie-craft.tingjie_dirt": "Tingium dirt",
   "item.tingium-craft.raw_tingjie_mine": "raw Tingium",
   "item.tingium-craft.tingjie_ingot": "Tingium",
   "block.tingium-craft.tingjie_ore": "white Tingium ore",
@@ -15,14 +18,11 @@
   "item.tingium-craft.oxidized_tingjie_ingot": "oxidized Tingium",
   "block.tingium-craft.oxidized_tingjie_block": "oxidized Tingium block",
   "item.tingium-craft.oxidized_tingjie_nugget": "oxidized Tingium nugget",
-
-
-
-
-
-
-
-
+  "item.tingium-craft.tingjie_sword": "Tingium sword",
+  "item.tingium-craft.tingjie_shovel": "Tingium shovel",
+  "item.tingium-craft.tingjie_pickaxe": "Tingium pickaxe",
+  "item.tingium-craft.tingjie_axe": "Tingium axe",
+  "item.tingium-craft.tingjie_hoe": "Tingium hoe",
 
 
 
@@ -34,26 +34,37 @@
 
   "painting.tingium-craft.james_call.title": "James is on the phone.",
   "painting.tingium-craft.james_call.author": "xiaohaohao",
+
   "painting.tingium-craft.james_relief.title": "james was relieved.",
   "painting.tingium-craft.james_relief.author": "xiaohaohao",
+
   "painting.tingium-craft.confused.title": "confused.",
   "painting.tingium-craft.confused.author": "xiaohaohao",
+
   "painting.tingium-craft.james_proud.title": "Smug James.",
   "painting.tingium-craft.james_proud.author": "xiaohaohao",
+
   "painting.tingium-craft.james_doubt.title": "James, who doubted.",
   "painting.tingium-craft.james_doubt.author": "xiaohaohao",
+
   "painting.tingium-craft.tingium.title": "Tingium introductory abridged version",
   "painting.xiaohaohao-mod.tingium.author": "suger_li",
+
   "painting.tingium-craft.tingium1.title": "Tingium introduces the detailed version",
   "painting.xiaohaohao-mod.tingium1.author": "suger_li",
+
   "painting.tingium-craft.chen-junjie.title": "Chen Junjie",
   "painting.tingium-craft.chen-junjie.author": "xiaohaohao",
+
   "painting.tingium-craft.chen-junjie-like.title": "Chen Junjie's like",
   "painting.tingium-craft.chen-junjie-like.author": "xiaohaohao",
+
   "painting.tingium-craft.crooked-mouth-huajun.title": "crooked mouth Huajun",
   "painting.tingium-craft.crooked-mouth-huajun.author": "xiaohaohao",
+
   "painting.tingium-craft.james-raising-the-middle-finger.title": "James raising the middle finger",
   "painting.tingium-craft.james-raising-the-middle-finger.author": "xiaohaohao",
+
   "painting.tingium-craft.james-disdainful-little-eyes.title": "James disdainful little eyes",
   "painting.tingium-craft.james-disdainful-little-eyes.author": "xiaohaohao"
 }

@@ -1,10 +1,13 @@
 {
   "itemGroup.tingiumcraft_group": "绮金世界物品栏",
-  "block.tingium-craft.tingjie_stone": "婷姐石头",
-  "block.tingium-craft.tingjie_cobblestone": "婷姐圆石",
-  "block.tingium-craft.tingjie_log": "婷姐原木",
-  "block.tingium-craft.tingjie_leaves": "婷姐树叶",
-  "block.tingium-craft.tingjie_sand": "婷姐沙子",
+  "block.tingium-craft.tingjie_stone": "\uea01石头",
+  "block.tingium-craft.tingjie_cobblestone": "\uea01圆石",
+  "block.tingium-craft.tingjie_log": "\uea01原木",
+  "block.tingium-craft.tingjie_leaves": "\uea01树叶",
+  "block.tingium-craft.tingjie_sand": "\uea01沙子",
+  "block.tingium-craft.tingjie_sapling": "\uea01树苗",
+  "block.tingium-craft.tingjie_grass_block": "\uea01草方块",
+  "block.tingjie-craft.tingjie_dirt": "\uea01泥土",
   "item.tingium-craft.raw_tingjie_mine": "粗\uea01矿",
   "item.tingium-craft.tingjie_ingot": "\uea01锭",
   "block.tingium-craft.tingjie_ore": "白\uea01矿",
@@ -15,13 +18,11 @@
   "item.tingium-craft.oxidized_tingjie_ingot": "氧化\uea01锭",
   "block.tingium-craft.oxidized_tingjie_block": "氧化\uea01块",
   "item.tingium-craft.oxidized_tingjie_nugget": "氧化\uea01粒",
-
-
-
-
-
-
-
+  "item.tingium-craft.tingjie_sword": "\uea01剑",
+  "item.tingium-craft.tingjie_shovel": "\uea01铲",
+  "item.tingium-craft.tingjie_pickaxe": "\uea01镐",
+  "item.tingium-craft.tingjie_axe": "\uea01斧",
+  "item.tingium-craft.tingjie_hoe": "\uea01锄",
 
 
 
@@ -33,26 +34,37 @@
 
   "painting.tingium-craft.james_call.title": "正在通话的覃俊豪",
   "painting.tingium-craft.james_call.author": "豪某人",
+
   "painting.tingium-craft.james_relief.title": "释怀的覃俊豪",
   "painting.tingium-craft.james_relief.author": "豪某人",
+
   "painting.tingium-craft.confused.title": "懵逼",
   "painting.tingium-craft.confused.author": "豪某人",
+
   "painting.tingium-craft.james_proud.title": "得意的覃俊豪",
   "painting.tingium-craft.james_proud.author": "豪某人",
+
   "painting.tingium-craft.james_doubt.title": "疑问的覃俊豪",
   "painting.tingium-craft.james_doubt.author": "豪某人",
+
   "painting.tingium-craft.tingium.title": "\uea01介绍简略版",
   "painting.xiaohaohao-mod.tingium.author": "suger_li",
+
   "painting.tingium-craft.tingium1.title": "\uEA01介绍详细版",
   "painting.xiaohaohao-mod.tingium1.author": "suger_li",
+
   "painting.tingium-craft.chen-junjie.title": "陈俊杰",
   "painting.tingium-craft.chen-junjie.author": "豪某人",
+
   "painting.tingium-craft.chen-junjie-like.title": "陈俊杰的点赞",
   "painting.tingium-craft.chen-junjie-like.author": "豪某人",
+
   "painting.tingium-craft.crooked-mouth-huajun.title": "歪嘴华俊",
   "painting.tingium-craft.crooked-mouth-huajun.author": "豪某人",
+
   "painting.tingium-craft.james-raising-the-middle-finger.title": "竖中指的覃俊豪",
   "painting.tingium-craft.james-raising-the-middle-finger.author": "豪某人",
+
   "painting.tingium-craft.james-disdainful-little-eyes.title": "覃俊豪那不屑的小眼神",
   "painting.tingium-craft.james-disdainful-little-eyes.author": "豪某人"
 }
