@@ -4,6 +4,7 @@ import name.tingiumcraft.block.ModBlocks;
 import name.tingiumcraft.item.ModItemGroups;
 import name.tingiumcraft.item.ModItems;
 import name.tingiumcraft.sound.ModSoundEvents;
+import name.tingiumcraft.world.gen.ModWorldGeneration;
 import net.fabricmc.api.ModInitializer;
 
 import net.fabricmc.fabric.api.registry.FlammableBlockRegistry;
@@ -30,6 +31,7 @@ public class Tingiumcraft implements ModInitializer {
 		ModItemGroups.registerModItemGroups();
 		ModBlocks.registerModBlocks();
 		ModSoundEvents.registerModSoundEvents();
+		ModWorldGeneration.registWorldGeneration();
 
 
 		FlammableBlockRegistry.getDefaultInstance().add(ModBlocks.TINGJIE_LOG,5,5);
